@@ -8,11 +8,11 @@ You need to create your own firestore database. Simply change firebase.js file w
 
 Tech
 ---------------------------------------------------------------------
-ReactJS
+● ReactJS
 
-Tailwindcss
+● Tailwindcss
 
-Firebase Firestore
+● Firebase Firestore
 
 
 
