@@ -1,9 +1,13 @@
 Installation
 ----------------------------------------------------------------------
   git clone https://github.com/tunactnkya/Twitter-clone-app-with-React.JS
+  
   cd twitter-clone-app
+  
   npm install
+  
   npm start
+  
 You need to create your own firestore database. Simply change firebase.js file with your own firebase config data.
 
 Tech
